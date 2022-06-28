@@ -3,7 +3,7 @@
 	var myID;
 	
 	var resetChannel = "reset.escape.room"
-	var resetProperties = ["position"]
+	var resetProperties = ["visible"]
 
 	// singleUse: whether the action should be performed only once (true) or reverted at next call
 	// used: false if the object is in default state of visibility
