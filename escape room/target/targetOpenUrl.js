@@ -5,7 +5,7 @@
 	var resetProperties = []
 
 	var defaultActionData = {
-		url: 'https:////vircadia.com',
+		url: '',
 		singleUse: false,
 		used: false
 	}
